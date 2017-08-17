@@ -1,0 +1,4 @@
+MathAnswerIntent is it {Answer}
+MathAnswerIntent could it be {Answer}
+MathAnswerIntent it might be {Answer}
+
