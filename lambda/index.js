@@ -6,9 +6,9 @@ const APP_ID = 'amzn1.ask.skill.9ecec85c-2b52-4da2-82e0-c09e303bee9e';
 const praises = [
     '<say-as interpret-as="interjection">Bam</say-as> you are a math a leet!',
     '<say-as interpret-as="interjection">Boom</say-as> <say-as interpret-as="interjection">Pow</say-as> !',
-    '<say-as interpret-as="interjection">katchow</say-as> <say-as interpret-as="interjection">meow</say-as>'
+    '<say-as interpret-as="interjection">katchow</say-as> <say-as interpret-as="interjection">meow</say-as> !' ,
     'Meowsers, you got this!',
-    '<say-as interpret-as="interjection">Oh snap</say-as> you are a smart kitty',
+    '<say-as interpret-as="interjection">Oh snap</say-as> you are a smart kitty !!',
     'This Kitty sure loves math!',
     '<say-as interpret-as="interjection">meow</say-as>!'
 ];
